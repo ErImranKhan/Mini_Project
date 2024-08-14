@@ -1,6 +1,6 @@
 
 <h1> Title of the project : </h1>
-<h2>AI Healthcare Chatbot</h2> 
+<h2>Vita Vault Healthcare Chatbot</h2> 
 <hr>
  <b>An AI-powered chatbot that can provide healthcare information and support to users. <b>
 
@@ -13,13 +13,13 @@ The healthcare industry is facing many challenges in today's world, with the COV
 <hr>
 
 
-The Healthcare AI Chatbot is an innovative technology solution designed to provide patients with easy access to medical advice and care. The chatbot utilizes artificial intelligence algorithms to identify and diagnose symptoms, provide basic medical advice, and direct patients to appropriate healthcare services. The goal of this project is to create an intelligent and user-friendly chatbot that can assist patients in identifying their symptoms, provide medical advice, and help them access healthcare services, including telemedicine consultations.
+The Vita Vault Healthcare AI Chatbot is an innovative technology solution designed to provide patients with easy access to medical advice and care. The chatbot utilizes artificial intelligence algorithms to identify and diagnose symptoms, provide basic medical advice, and direct patients to appropriate healthcare services. The goal of this project is to create an intelligent and user-friendly chatbot that can assist patients in identifying their symptoms, provide medical advice, and help them access healthcare services, including telemedicine consultations.
 
-The Healthcare AI Chatbot will be designed to be accessible to anyone with a smartphone or computer. Patients will be able to interact with the chatbot via a web-based or mobile-based interface, allowing them to ask questions, describe their symptoms, and receive medical advice. The chatbot will use natural language processing algorithms to understand the patient's questions and provide appropriate responses.
+The Vita vault Healthcare AI Chatbot will be designed to be accessible to anyone with a smartphone or computer. Patients will be able to interact with the chatbot via a web-based or mobile-based interface, allowing them to ask questions, describe their symptoms, and receive medical advice. The chatbot will use natural language processing algorithms to understand the patient's questions and provide appropriate responses.
 
-The Healthcare AI Chatbot will be trained on a large dataset of medical information, including symptoms, diagnoses, and treatments. The chatbot will use this data to identify potential medical conditions based on the patient's symptoms and provide appropriate medical advice. In addition, the chatbot will have the ability to refer patients to healthcare providers, including telemedicine consultations with doctors or specialists, based on the severity of their symptoms.
+The Vita Vault Healthcare AI Chatbot will be trained on a large dataset of medical information, including symptoms, diagnoses, and treatments. The chatbot will use this data to identify potential medical conditions based on the patient's symptoms and provide appropriate medical advice. In addition, the chatbot will have the ability to refer patients to healthcare providers, including telemedicine consultations with doctors or specialists, based on the severity of their symptoms.
 
-The Healthcare AI Chatbot project will involve the following key steps:
+The Vita Vault Healthcare AI Chatbot project will involve the following key steps:
 
 Data Collection: Collect a large dataset of medical information, including symptoms, diagnoses, and treatments.
 
@@ -31,7 +31,7 @@ Testing and Validation: Test the chatbot's accuracy and effectiveness by collect
 
 Deployment: Deploy the chatbot to a web-based or mobile-based interface, allowing patients to access medical advice and care from anywhere at any time.
 
-The Healthcare AI Chatbot has the potential to improve patient outcomes, enhance access to healthcare services, and ease the burden on healthcare providers. This project represents an exciting opportunity to use innovative technologies to transform the healthcare industry and improve the quality of care for patients.
+The Vita vault Healthcare AI Chatbot has the potential to improve patient outcomes, enhance access to healthcare services, and ease the burden on healthcare providers. This project represents an exciting opportunity to use innovative technologies to transform the healthcare industry and improve the quality of care for patients.
 
 
 <h2>Problem Statement: </h2> 
@@ -122,7 +122,7 @@ Google Cloud
 <h2>Team Members:</h2> 
 <hr>
 <b> Imran Khan </b>- <a href="https://github.com/ErImranKhan">GITHUB</a> <br>
-<b> Abhay Prakash </b>- <a href="">GITHUB</a> <br >
+<b> Abhay Prakash </b>- <a href="https://github.com/cdtabhay4607s">GITHUB</a> <br >
 <b> Md Sarfaraz </b> - <a href="hhttps://github.com/sarfaraz43">GITHUB</a> <br>
 <b> Dhiraj Kumar </b> - <a href="https://github.com/DHIRAJ12SINGH">GITHUB</a> <br>
 <b> K. Srinivasa Reddy </b> - <a href="https://github.com/srinu1679">GITHUB</a> <br>
