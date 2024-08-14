@@ -2,7 +2,7 @@
 <h1> Title of the project : </h1>
 <h2>AI Healthcare Chatbot</h2> 
 <hr>
- <b>an AI-powered chatbot that can provide healthcare information and support to users. <b>
+ <b>An AI-powered chatbot that can provide healthcare information and support to users. <b>
 
 <h2> The theme of the Project :  </h2>       
 <b> Health-Care  </b>
