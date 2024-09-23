@@ -1,6 +1,4 @@
 
-
-```markdown
 # 📄 Document Chat System
 
 This project is a **Document Chat System** that allows users to upload PDF documents, index them using **Pinecone**, and ask questions about the content of the documents. The system leverages **Google's Generative AI models**, **Streamlit** for the UI, **Firebase** for document metadata storage, and **Pinecone** for vector-based search.
@@ -25,7 +23,7 @@ This project is a **Document Chat System** that allows users to upload PDF docum
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/document-chat-system.git
+   git clone https://github.com/ErImranKhan/RAG_MODEL.git
    cd document-chat-system
    ```
 
@@ -95,5 +93,3 @@ If you'd like to contribute to this project, feel free to open a pull request or
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
-
-You can copy and paste this code into a `README.md` file for your GitHub repository.
